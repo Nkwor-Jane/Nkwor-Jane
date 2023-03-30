@@ -3,7 +3,8 @@
 -  :mailbox_with_mail: You can ask me questions about software engineering and technical writing. I also write articles on [Hashnode](https://justjane.hashnode.dev/)
 - 📫  Send me a message: nkwor.jane.chinelo@gmail.com
 
-##:books: Tech Stack - JavaScript, Python, React
+## :books: Tech Stack - JavaScript, Python, React
+(https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 <!---
 Nkwor-Jane/Nkwor-Jane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
