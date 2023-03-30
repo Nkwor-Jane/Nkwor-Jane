@@ -1,5 +1,7 @@
-- 👋 Hi, I am a Software Engineer(Frontend). I love building tools and features people would enjoy using.
+- 👋 Hi, I am a Software Engineer(Frontend). My primary objective is to build tools, features and applications people would enjoy using while maintaining and improving user experience.
 - 💞️ I’m looking to collaborate on open source projects
+-  :mailbox_with_mail: You can ask me questions about software engineering and technical writing. I also write articles on ![Hashnode](https://justjane.hashnode.dev/)
+-  :books: Tech Stack - JavaScript, Python, React
 - 📫  You can reach me on nkwor.jane.chinelo@gmail.com
 
 <!---
