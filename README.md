@@ -8,3 +8,7 @@
 Nkwor-Jane/Nkwor-Jane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+### Languages
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nkwor-Jane)](https://github.com/Nkwor-Jane/github-readme-stats)
+### GitHub Stats
+![Nkwor Jane's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nkwor-Jane&show_icons=true&theme=radical)
