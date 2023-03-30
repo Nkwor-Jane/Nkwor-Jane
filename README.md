@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @giftedDev
+- 👋 Hi, I’m @Nkwor-Jane
 - 👀 I’m interested in web/software development
 - 🌱 I’m currently building webapps with ReactJS 
 - 💞️ I’m looking to collaborate on projects that take me to my goals which is to become a software engineer.
