@@ -1,7 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Nkwor Jane!
-- 👩‍💻 A Software Engineer(Frontend). My primary objective is to build tools, features and applications people would enjoy using while maintaining and improving user experience.
+- 👩‍💻 A Software Engineer(Full-Stack). My primary objective is to build tools, features and applications people would enjoy using while maintaining and improving user experience.
 - 💞️ I’m looking to collaborate on open source projects
-- 📬 You can ask me questions about software engineering and technical writing. I also write articles on [Hashnode](https://justjane.hashnode.dev/)
+- 📬 You can ask me questions about software engineering and technical writing. 
 - 📫  Send me a message: nkwor.jane.chinelo@gmail.com
 
 ## 🧰 Toolbox
